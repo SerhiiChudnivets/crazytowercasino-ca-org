@@ -5,7 +5,7 @@
   "url": "crazytowercasino-ca.org",
   "template": "tupchiy",
   "language_code": "en",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -180,7 +180,7 @@
   "login_text": "Login",
   "register_text": "Sign Up",
   "slots_title": "Slots",
-  "bonus_title": "Promotions ",
+  "bonus_title": "Offers",
   "get_bonus_btn_text": "Get",
   "redirect_link": "/play/",
   "home_name": "CrazyTower Casino",
@@ -383,9 +383,9 @@
       "question": "What responsible gaming tools are available?"
     }
   ],
-  "_generated_at": "2026-10-15T12:20:58.521Z",
+  "_generated_at": "2026-10-15T12:25:05.343Z",
   "_version": "1.0.0",
   "content_alt": "CrazyTower Casino exclusive",
-  "_last_deploy": "2026-10-15T12:20:59.063Z",
-  "_deploy_trigger": "592lv"
+  "_last_deploy": "2026-10-15T12:25:05.962Z",
+  "_deploy_trigger": "s1e93i"
 }
