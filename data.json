@@ -191,7 +191,7 @@
   "button_background": "#22c155",
   "button_text_color": "#ebe6c3",
   "text_color": "#ebe6c3",
-  "color_highlight_text": "#000000",
+  "color_highlight_text": "#ebe6c3",
   "color_main_btn_text": "#000000",
   "cta_background": "#d7bda6",
   "logo": {
@@ -383,9 +383,9 @@
       "question": "What responsible gaming tools are available?"
     }
   ],
-  "_generated_at": "2026-10-15T12:19:28.148Z",
+  "_generated_at": "2026-10-15T12:20:58.521Z",
   "_version": "1.0.0",
   "content_alt": "CrazyTower Casino exclusive",
-  "_last_deploy": "2026-10-15T12:19:28.699Z",
-  "_deploy_trigger": "48fluo"
+  "_last_deploy": "2026-10-15T12:20:59.063Z",
+  "_deploy_trigger": "592lv"
 }
