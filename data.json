@@ -187,12 +187,12 @@
   "subdomains": null,
   "accent_color": "#334155",
   "main_background": "#261717",
-  "secondary_background": "#c1a798",
+  "secondary_background": "#362621",
   "button_background": "#22c155",
-  "button_text_color": "#000000",
+  "button_text_color": "#ebe6c3",
   "text_color": "#ebe6c3",
-  "color_highlight_text": "#d7bda6",
-  "color_main_btn_text": "#ffffff",
+  "color_highlight_text": "#000000",
+  "color_main_btn_text": "#000000",
   "cta_background": "#d7bda6",
   "logo": {
     "url": "/uploads/d96e96dae6d1ce16aef058fbce0fa765.webp",
@@ -383,9 +383,9 @@
       "question": "What responsible gaming tools are available?"
     }
   ],
-  "_generated_at": "2026-10-15T12:17:17.241Z",
+  "_generated_at": "2026-10-15T12:19:28.148Z",
   "_version": "1.0.0",
   "content_alt": "CrazyTower Casino exclusive",
-  "_last_deploy": "2026-10-15T12:17:17.814Z",
-  "_deploy_trigger": "jilbjn"
+  "_last_deploy": "2026-10-15T12:19:28.699Z",
+  "_deploy_trigger": "48fluo"
 }
